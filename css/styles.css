@@ -41,7 +41,7 @@ header h2 {
   bottom: 0;
   z-index: 100; }
 
-.modal-content .modal-header {
+#reserveModal .modal-header {
   background-color: #17A2B8;
   color: white; }
 
